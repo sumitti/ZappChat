@@ -82,15 +82,15 @@ ZappChat/
 │   │   ├── lib/
 │   │   └── index.js
 │   ├── .env
-│   └── [package.json](http://_vscodecontentref_/0)
+│   └── [package.json]
 ├── frontend/
 │   ├── src/
 │   │   ├── components/
 │   │   ├── store/
 │   │   └── App.jsx
 │   ├── .env
-│   └── [package.json](http://_vscodecontentref_/1)
-└── [README.md](http://_vscodecontentref_/2)
+│   └── [package.json]
+└── [README.md]
 ```
 ---
 #### Contributing ✨
